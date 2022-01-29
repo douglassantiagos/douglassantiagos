@@ -1,16 +1,40 @@
-### Hi there 👋
+<div align="center" >
+  <img src="https://imgur.com/M5eIzd8.png" width="300px">
+</div>
 
-<!--
-**douglassantiagos/douglassantiagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hello World <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">, Bem vindo ao meu perfil 
+ </h1>
+ 
+ <p align="center" >
+  Me chamo Douglas Santiago e moro na zona oeste do Rio de Janeiro.
+  Estou cursando Sistema de Informação na Universidade Estácio, pois sou apaixonado por Tecnologia e Desenvolvimento Web, em especial por Front End 💙 <br>
+  Diáriamente venho estudando e me desenvolvendo para me tornar melhor do que ontem, e assim, conquistar minha primeira oportunidade na área de programação   e colocar em prática todo o conhecimento que adquiri e continuar evoluindo ainda mais. 🚀
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔮 Minha Stack
+
+Essas são algumas das tecnologias que venho estudando no dia a dia
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="80px"> <img src="https://imgur.com/BzseUhJ.png" width="80px"> <img src="https://imgur.com/Zv9OBvD.png" width="80px"> <img src="https://imgur.com/9tA3wPj.png" width="73px"> <img src="https://imgur.com/Be8TP1Y.png" width="73px">
+</div> 
+
+## 📈 Estatísticas
+
+<div align="center" >
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglassantiagos&layout=compact&theme=react&hide_border=true)](https://github.com/douglassantiagos/github-readme-stats)
+  
+</div>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center" dir="row" >
+  
+<a href="https://github.com/douglassantiagos"><img src="https://camo.githubusercontent.com/9f5b25c0b9a1a234d51e2668eed47b8234c9018de7c76a820f0c18c1342ddbde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/douglas-santiago-607838192/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
+  <a href="mailto:douglassanti.dss@gmail.com"><img src="https://camo.githubusercontent.com/5cceade0437843ac9f727894889ed7ae06a6ba6ef885351844765119c4a19aa8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6666393830303f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+</div>
