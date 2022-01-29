@@ -9,7 +9,7 @@
  <p align="center" >
   Me chamo Douglas Santiago e moro na zona oeste do Rio de Janeiro.
   Estou cursando Sistema de Informação na Universidade Estácio, pois sou apaixonado por Tecnologia e Desenvolvimento Web, em especial por Front End 💙 <br>
-  Diáriamente venho estudando e me desenvolvendo para me tornar melhor do que ontem, e assim, conquistar minha primeira oportunidade na área de programação   e colocar em prática todo o conhecimento que adquiri e continuar evoluindo ainda mais. 🚀
+  Diáriamente venho estudando e me desenvolvendo para me tornar melhor a cada dia, e assim, conquistar minha primeira oportunidade na área de programação, para que eu possa colocar em prática todo o conhecimento que adquiri e continuar evoluindo ainda mais. 🚀
 </p>
 
 
