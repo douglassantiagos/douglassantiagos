@@ -1,17 +1,17 @@
 <h1 align="left">
-  Olá <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">, Sou Douglas Santiago
+  Olá <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">, Como você está?
  </h1>
  
- <p align="center" >
+<p align="center" >
   <img src="https://imgur.com/FNoTKlS.png" margin-right="20px" align="right" height="250em" max-width="100%" >
 </p>
 
-<br>
+<h3>💻 Bem vindo ao meu perfil.</h3>
 
 <p align="justify" >
-  Me chamo Douglas Santiago e moro na zona oeste do Rio de Janeiro.
+  Me chamo Douglas Santiago, moro na zona oeste do Rio de Janeiro, capital.
   Estou cursando Sistema de Informação na Universidade Estácio, pois sou apaixonado por Tecnologia e Desenvolvimento Web, em especial por Front End 💙. 
-  Diáriamente venho estudando e me desenvolvendo para me tornar melhor a cada dia. Estou em busca da minha primeira oportunidade na área de programação, para que eu possa       colocar em prática todo o conhecimento que adquiri e continuar evoluindo ainda mais. 🚀
+  Diáriamente venho estudando e aperfeiçoando minhas skills para me tornar melhor a cada dia. Estou em busca da minha primeira oportunidade na área de programação, para colocar em prática todo o conhecimento que adquiri e continuar evoluindo ainda mais. 🚀
 </p>
 
 <br>
