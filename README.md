@@ -1,17 +1,20 @@
-<div align="center" >
-  <img src="https://imgur.com/M5eIzd8.png" width="300px">
-</div>
-
-<h1 align="center">
-  Hello World <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">, Bem vindo ao meu perfil 
+<h1 align="left">
+  Olá <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">, Sou Douglas Santiago
  </h1>
  
  <p align="center" >
-  Me chamo Douglas Santiago e moro na zona oeste do Rio de Janeiro.
-  Estou cursando Sistema de Informação na Universidade Estácio, pois sou apaixonado por Tecnologia e Desenvolvimento Web, em especial por Front End 💙 <br>
-  Diáriamente venho estudando e me desenvolvendo para me tornar melhor a cada dia, e assim, conquistar minha primeira oportunidade na área de programação, para que eu possa colocar em prática todo o conhecimento que adquiri e continuar evoluindo ainda mais. 🚀
+  <img src="https://imgur.com/FNoTKlS.png" margin-right="20px" align="right" height="250em" max-width="100%" >
 </p>
 
+<br>
+
+<p align="justify" >
+  Me chamo Douglas Santiago e moro na zona oeste do Rio de Janeiro.
+  Estou cursando Sistema de Informação na Universidade Estácio, pois sou apaixonado por Tecnologia e Desenvolvimento Web, em especial por Front End 💙. 
+  Diáriamente venho estudando e me desenvolvendo para me tornar melhor a cada dia. Estou em busca da minha primeira oportunidade na área de programação, para que eu possa       colocar em prática todo o conhecimento que adquiri e continuar evoluindo ainda mais. 🚀
+</p>
+
+<br>
 
 ## 🔮 Minha Stack
 
@@ -28,8 +31,7 @@ Essas são algumas das tecnologias que venho estudando no dia a dia
   
 </div>
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 
 <div align="center" dir="row" >
   
