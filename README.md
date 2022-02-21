@@ -19,7 +19,7 @@
 
 Essas são algumas das tecnologias que venho estudando no dia a dia
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="80px"> <img src="https://imgur.com/BzseUhJ.png" width="80px"> <img src="https://imgur.com/Zv9OBvD.png" width="80px"> <img src="https://imgur.com/9tA3wPj.png" width="73px"> <img src="https://imgur.com/Be8TP1Y.png" width="73px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="70px"> <img src="https://imgur.com/BzseUhJ.png" width="70px"> <img src="https://imgur.com/Zv9OBvD.png" width="70px"> <img src="https://imgur.com/9tA3wPj.png" width="63px"> <img src="https://imgur.com/Be8TP1Y.png" width="63px">
 </div> 
 
 ## 📈 Estatísticas
