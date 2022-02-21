@@ -13,8 +13,6 @@
   Estou cursando Sistema de Informação na Universidade Estácio, pois sou apaixonado por Tecnologia e Desenvolvimento Web, em especial por Front End 💙. Diáriamente venho estudando e aperfeiçoando minhas skills para me tornar melhor a cada dia. Estou em busca da minha primeira oportunidade na área de programação, para colocar em prática todo o conhecimento que adquiri e continuar evoluindo ainda mais. 🚀
 </p>
 
-<br>
-
 ## 🔮 Minha Stack
 
 Essas são algumas das tecnologias que venho estudando no dia a dia
