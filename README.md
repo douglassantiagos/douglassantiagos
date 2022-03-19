@@ -3,7 +3,7 @@
  </h1>
  
 <p align="center" >
-  <img src="https://imgur.com/KTK5zdP.gif" margin-right="20px" align="right" height="250em" max-width="100%" >
+  <img src="https://imgur.com/KTK5zdP.gif" margin-right="20px" align="right" height="200em" max-width="100%" >
 </p>
 
 <h3>💻 Bem vindo ao meu perfil.</h3>
