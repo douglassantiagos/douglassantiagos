@@ -5,7 +5,7 @@
 <h3>💬 Welcome to my profile.</h3>
 
 <p align="justify">
-  My name is Douglas Santiago, I'm from Rio de Janeiro. I'm studying Information System in Estácio University, because I'm passionate about technology and development, in particular for Front-End. Day to day I came studying and improving my skills to become better and to achieve the next level. 🚀
+  My name is Douglas Santiago, I'm from Rio de Janeiro. I'm studying Information System in Estácio University, because I'm passionate about technology and development, in particular for Front-End. Day to day I continue studying and improving my skills to become better and to achieve the next level. 🚀
 </p>
 
 ## 🔮 My stacks
