@@ -1,25 +1,67 @@
-<h1 align="left">
-  Hi there <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">, how are you?
- </h1>
-
-<h3>💬 Welcome to my profile.</h3>
-
-<p align="justify">
-  My name is Douglas Santiago, I'm from Rio de Janeiro. I'm studying Information System in Estácio University, because I'm passionate about technology and development, in particular for Front-End. Day to day I continue studying and improving my skills to become better and to achieve the next level. 🚀
-</p>
-
-## 🔮 My stacks
-
-Some technologies about I'm studying daily:
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="60px"> <img src="https://imgur.com/BzseUhJ.png" width="60px"> <img src="https://imgur.com/Zv9OBvD.png" width="60px"> <img src="https://imgur.com/9tA3wPj.png" width="53px"> <img src="https://imgur.com/Be8TP1Y.png" width="53px">
-</div> 
-
-## 📧 Contact
-
-<div align="center" dir="row" >
-  
- <a href="https://instagram.com/osantiagods" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.linkedin.com/in/douglas-santiago-607838192/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
-  <a href="mailto:douglassanti.dss@gmail.com"><img src="https://camo.githubusercontent.com/5cceade0437843ac9f727894889ed7ae06a6ba6ef885351844765119c4a19aa8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6666393830303f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=douglassantiagos.douglassantiagos&"  />
+</div>
+
+###
+
+<h1 align="center">Olá, seja muito bem-vindo ao meu Github 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre Mim</h3>
+
+###
+
+<p align="left">Eu sou o Douglas, graduado em Sistemas de Informação e apaixonado por tecnologia, qualidade de software e aprendizado contínuo.<br><br>- 📚 Atualmente, estou aprimorando meus conhecimentos para o universo de Teste de softwares manual e automatizado, apredendo sobre bancos de dados, Junit, Selenium, Cucumber, IA generativa e conhecimentos de metodologias ágeis para alcançar o próximo nível.<br>- ⚡ Meu tempo livre está relacionado a estudos teóricos e práticos na área de qualidade de software.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=douglassantiagos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
